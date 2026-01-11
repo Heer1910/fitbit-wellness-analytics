@@ -246,26 +246,7 @@ To convert these insights into actionable business decisions, we recommend:
 
 ---
 
-## Technical Methodology Note
-
-**This analysis used industry-grade practices**:
-- Object-oriented data processing (R Reference Classes)
-- Comprehensive data validation (7 validation checks)
-- Auditable transformation pipeline (logged operations)
-- Reproducible analysis (versioned datasets, documented code)
-- Accessible visualizations (WCAG AA compliant)
-
-All code, data, and analysis artifacts are available in the project repository for peer review and reproducibility verification.
-
----
-
-## Resume-Ready Project Summary
-
-> **Smart Wellness Insights Platform**: Designed and implemented an end-to-end analytics system to process, validate, and analyze wearable device data, producing stakeholder-ready insights to inform wellness product marketing strategy. Built reproducible R and SQL pipelines with object-oriented design, documented data governance practices, and delivered executive dashboards highlighting behavioral trends, engagement patterns, and strategic recommendations. Identified critical insight that user consistency predicts long-term engagement better than activity intensity, leading to recommendation for behavioral segmentation over demographic segmentation in marketing campaigns.
-
----
-
 **Document Version**: 1.0  
 **Last Updated**: January 2026  
-**Contact**: Dhruv Patel  
+**Contact**: Heer Patel  
 **Project Repository**: [GitHub link placeholder]
