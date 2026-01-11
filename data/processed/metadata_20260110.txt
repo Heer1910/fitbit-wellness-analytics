@@ -1,0 +1,6 @@
+export_date: 1768088716.51198
+version: 20260110
+records_count: 940
+users_count: 33
+date_range: 2016-04-12 to 2016-05-12
+columns: 28

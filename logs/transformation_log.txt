@@ -1,0 +1,17 @@
+================================================================================
+TRANSFORMATION PIPELINE STARTED: 2026-01-10 17:45:16.094736
+================================================================================
+
+[ 2026-01-10 17:45:16.106473 ] Step 1: Merging activity and sleep data
+[ 2026-01-10 17:45:16.133701 ] Step 2: Adding weekday indicators
+[ 2026-01-10 17:45:16.145806 ] Step 3: Calculating sleep efficiency
+[ 2026-01-10 17:45:16.163612 ] Step 4: Categorizing activity levels
+[ 2026-01-10 17:45:16.349054 ] Step 5: Calculating activity metrics
+[ 2026-01-10 17:45:16.360176 ] Step 6: Creating visualization bins
+[ 2026-01-10 17:45:16.367457 ] Step 7: Removing duplicates
+[2026-01-10 17:45:16.370043] DUPLICATE REMOVAL: Removed 0 duplicate records based on: Id, Date
+
+================================================================================
+TRANSFORMATION PIPELINE COMPLETED: 2026-01-10 17:45:16.394342
+Final dataset: 940 rows, 28 columns
+================================================================================

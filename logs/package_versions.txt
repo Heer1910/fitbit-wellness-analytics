@@ -1,0 +1,95 @@
+Smart Wellness Insights Platform - Installed Package Versions
+Generated: 2026-01-10 17:40:44.757591
+
+Session Info:
+=============
+R version 4.4.1 (2024-06-14)
+Platform: aarch64-apple-darwin20
+Running under: macOS Sonoma 14.5
+
+Matrix products: default
+BLAS:   /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib 
+LAPACK: /Library/Frameworks/R.framework/Versions/4.4-arm64/Resources/lib/libRlapack.dylib;  LAPACK version 3.12.0
+
+locale:
+[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+
+time zone: America/Chicago
+tzcode source: internal
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets 
+[6] methods   base     
+
+other attached packages:
+ [1] glue_1.7.0         here_1.0.2        
+ [3] testthat_3.3.1     corrplot_0.95     
+ [5] psych_2.5.6        kableExtra_1.4.0  
+ [7] knitr_1.51         rmarkdown_2.30    
+ [9] patchwork_1.3.1    ggthemes_5.2.0    
+[11] RColorBrewer_1.1-3 viridis_0.6.5     
+[13] viridisLite_0.4.2  data.table_1.18.0 
+[15] forcats_1.0.0      stringr_1.5.1     
+[17] purrr_1.0.4        tibble_3.2.1      
+[19] tidyverse_2.0.0    RSQLite_2.4.5     
+[21] DBI_1.2.3          scales_1.3.0      
+[23] tidyr_1.3.1        readr_2.1.5       
+[25] lubridate_1.9.3    ggplot2_3.5.1     
+[27] dplyr_1.1.4       
+
+loaded via a namespace (and not attached):
+ [1] tidyselect_1.2.1     farver_2.1.2        
+ [3] blob_1.2.4           fastmap_1.2.0       
+ [5] digest_0.6.37        timechange_0.3.0    
+ [7] lifecycle_1.0.4      ellipsis_0.3.2      
+ [9] magrittr_2.0.3       compiler_4.4.1      
+[11] rlang_1.1.7          tools_4.4.1         
+[13] utf8_1.2.4           labeling_0.4.3      
+[15] bit_4.0.5            mnormt_2.1.1        
+[17] xml2_1.5.1           withr_3.0.2         
+[19] grid_4.4.1           fansi_1.0.6         
+[21] colorspace_2.1-1     progressr_0.15.1    
+[23] cli_3.6.5            anytime_0.3.11      
+[25] crayon_1.5.3         ragg_1.5.0          
+[27] generics_0.1.3       otel_0.2.0          
+[29] rstudioapi_0.17.1    tzdb_0.4.0          
+[31] cachem_1.1.0         splines_4.4.1       
+[33] parallel_4.4.1       vctrs_0.6.5         
+[35] Matrix_1.7-0         hms_1.1.3           
+[37] bit64_4.0.5          systemfonts_1.3.1   
+[39] fable_0.4.1          fabletools_0.5.0    
+[41] codetools_0.2-20     distributional_0.5.0
+[43] stringi_1.8.7        gtable_0.3.6        
+[45] munsell_0.5.1        pillar_1.9.0        
+[47] brio_1.1.5           feasts_0.4.1        
+[49] htmltools_0.5.9      R6_2.6.1            
+[51] textshaping_1.0.4    rprojroot_2.1.1     
+[53] vroom_1.6.5          evaluate_1.0.5      
+[55] lattice_0.22-6       memoise_2.0.1       
+[57] tsibble_1.1.6        Rcpp_1.0.14         
+[59] svglite_2.2.2        gridExtra_2.3       
+[61] nlme_3.1-164         mgcv_1.9-1          
+[63] xfun_0.55            pkgconfig_2.0.3     
+
+
+Installed Packages:
+===================
+                  Package Version
+corrplot         corrplot    0.95
+data.table     data.table  1.18.0
+DBI                   DBI   1.2.3
+ggthemes         ggthemes   5.2.0
+glue                 glue   1.7.0
+here                 here   1.0.2
+kableExtra     kableExtra   1.4.0
+knitr               knitr    1.51
+lubridate       lubridate   1.9.3
+patchwork       patchwork   1.3.1
+psych               psych   2.5.6
+RColorBrewer RColorBrewer   1.1-3
+rmarkdown       rmarkdown    2.30
+RSQLite           RSQLite   2.4.5
+scales             scales   1.3.0
+testthat         testthat   3.3.1
+tidyverse       tidyverse   2.0.0
+viridis           viridis   0.6.5

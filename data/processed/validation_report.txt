@@ -1,0 +1,21 @@
+========================================
+VALIDATION REPORT: FitBit Wellness Data
+Generated: 2026-01-10 17:45:16.03892
+========================================
+
+✓ PASS - activity_non_negative
+
+✓ PASS - activity_duplicates
+
+✓ PASS - activity_minutes_range
+
+✗ FAIL - steps_outliers
+  Issues found: 1
+
+✓ PASS - sleep_non_negative
+
+✓ PASS - sleep_consistency
+
+========================================
+TOTAL ISSUES: 1
+========================================

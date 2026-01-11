@@ -14,25 +14,29 @@
 .Ruserdata
 
 # Processed data (keep raw data)
-data/processed/*
+# MODIFIED: Including processed data for portfolio showcase
+# data/processed/*
 !data/processed/.gitkeep
 
 # Logs
-logs/*.txt
-logs/*.log
+# MODIFIED: Including logs for transparency
+# logs/*.txt
+# logs/*.log
 
 # Outputs
-outputs/plots/*
-outputs/tables/*
-*.png
-*.jpg
-*.svg
-*.pdf
+# MODIFIED: Including plots and tables for portfolio showcase
+# outputs/plots/*
+# outputs/tables/*
+# *.png
+# *.jpg
+# *.svg
+# *.pdf
 
 # SQLite databases
-*.db
-*.sqlite
-*.sqlite3
+# MODIFIED: Including database for complete project showcase
+# *.db
+# *.sqlite
+# *.sqlite3
 
 # RMarkdown outputs
 reports/*.html
