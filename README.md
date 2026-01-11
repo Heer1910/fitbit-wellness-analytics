@@ -229,16 +229,8 @@ source("analysis/01_exploratory_analysis.R")
 
 All insights include explicit caveats about generalizability.
 
-## Resume-Ready Description
-
-> Designed and implemented an end-to-end analytics system to process, validate, and analyze wearable device data, producing stakeholder-ready insights to inform wellness product marketing strategy. Built reproducible R and SQL pipelines with object-oriented design, documented data governance practices, and delivered executive dashboards highlighting behavioral trends, engagement patterns, and strategic recommendations.
-
-## License
-
-This project uses public domain data. Analysis code is available for educational and portfolio purposes.
-
 ## Contact
 
-**Author**: Dhruv Patel  
+**Author**: Heer Patel  
 **Project Type**: Industry-grade analytics portfolio project  
 **Case Study Reference**: Bellabeat - How Can a Wellness Technology Company Play It Smart?
