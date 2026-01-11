@@ -1,0 +1,64 @@
+# .gitignore for R Smart Wellness Analytics Project
+
+# R specific files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# RStudio files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Processed data (keep raw data)
+data/processed/*
+!data/processed/.gitkeep
+
+# Logs
+logs/*.txt
+logs/*.log
+
+# Outputs
+outputs/plots/*
+outputs/tables/*
+*.png
+*.jpg
+*.svg
+*.pdf
+
+# SQLite databases
+*.db
+*.sqlite
+*.sqlite3
+
+# RMarkdown outputs
+reports/*.html
+reports/*.pdf
+reports/*_files/
+
+# System files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Cache
+cache/
+.cache/
+
+# Package management
+renv/
+packrat/
+
+# IDE specific
+.vscode/
+.idea/
