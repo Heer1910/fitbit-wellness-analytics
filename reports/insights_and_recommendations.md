@@ -1,6 +1,6 @@
 # Smart Wellness Insights & Strategic Recommendations
 
-**Author**: Dhruv Patel  
+**Author**: Heer Patel  
 **Platform**: Claude Code — Smart Wellness Insights Platform  
 **Analysis Period**: April 12 - May 12, 2016 (31 days)  
 **Sample Size**: 33 users, 940 daily activity records, 413 sleep records
